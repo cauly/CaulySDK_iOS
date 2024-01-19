@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
     s.homepage     = "https://www.cauly.net/index.html#/"
     s.license = { :type => 'MIT', :text => 'LICENSE' }
     s.author             = { "cauly" => "cauly@fsn.co.kr" }
-    s.source       = { :git => 'https://github.com/cauly/CaulySDK.git', :tag => s.version.to_s }
+    s.source       = { :git => 'https://github.com/cauly/CaulySDK_iOS.git'}
     s.vendored_frameworks = "CaulySDK.xcframework"
     s.platform = :ios
     s.swift_version = "4.2"
