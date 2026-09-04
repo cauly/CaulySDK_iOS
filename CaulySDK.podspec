@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name         = "CaulySDK"
-    s.version      = "3.1.22"
+    s.version      = "3.1.23"
     s.summary      = "CaulySDK for iOS"
     s.description  = "CaulySDK for iOS"
     s.homepage     = "https://www.cauly.net/index.html#/"
@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
     s.vendored_frameworks = "CaulySDK.xcframework"
     s.platform = :ios
     s.swift_version = "4.2"
-    s.ios.deployment_target  = '12.0'
+    s.ios.deployment_target  = '13.0'
 
     s.frameworks = [
         'AVKit',
