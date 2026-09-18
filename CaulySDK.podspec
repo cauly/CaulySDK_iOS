@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name         = "CaulySDK"
-    s.version      = "3.1.23"
+    s.version      = "3.1.24"
     s.summary      = "CaulySDK for iOS"
     s.description  = "CaulySDK for iOS"
     s.homepage     = "https://www.cauly.net/index.html#/"
